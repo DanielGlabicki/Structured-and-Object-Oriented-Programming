@@ -1,0 +1,24 @@
+# ninja log v5
+3	351	7041530003038349	build.ninja	9a570daaa389924c
+21	1583	7039814938608747	CMakeFiles/vehicles_1__test.dir/test/main_gtest.cpp.obj	8fcba1db13fe1f41
+7	932	7040479169493059	CMakeFiles/vehicles_1__test.dir/src/vehicles.cpp.obj	9f24ba15a1fef75d
+5	1617	7040479921751062	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	4fd2207454d1464
+30	3265	7039814955360340	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	80150c9259eb68e
+9315	9674	7039815019432693	lib/libgmock.a	6a82d0fb964c9f5e
+7127	9314	7039815015602597	lib/libgtest.a	266a6627d32184f7
+54	7127	7039814993791835	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	a4ee1560382d9c67
+1618	4553	7040479951057104	vehicles_1__test.exe	67b1c78d9b0cce9b
+15	1016	7044696729620343	CMakeFiles/vehicles_1__test.dir/src/vehicles.cpp.obj	5430b1796f196b1d
+23	1681	7044696736274231	CMakeFiles/vehicles_1__test.dir/test/main_gtest.cpp.obj	132680e266b7764f
+6	1928	7044696738718081	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	e8d021f01b367940
+32	3179	7044696751153744	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	82e8c9ae640e1a1
+51	6876	7044696787959312	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	7f5fd8859eadb7c7
+6876	9099	7044696810122705	lib/libgtest.a	266a6627d32184f7
+9099	9460	7044696813974662	lib/libgmock.a	6a82d0fb964c9f5e
+9460	12343	7044696842814000	vehicles_1__test.exe	67b1c78d9b0cce9b
+7	1533	7044696950853364	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	e8d021f01b367940
+1533	4396	7044696979418564	vehicles_1__test.exe	67b1c78d9b0cce9b
+6	1518	7044697332702368	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	e8d021f01b367940
+1518	4368	7044697361141608	vehicles_1__test.exe	67b1c78d9b0cce9b
+6	1602	7044697495253260	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	e8d021f01b367940
+1603	4498	7044697524159235	vehicles_1__test.exe	67b1c78d9b0cce9b

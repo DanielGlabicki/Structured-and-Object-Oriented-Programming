@@ -1,0 +1,3 @@
+I:/_studia/Semestr_2/Informatyka/C_Lion/repo_Cpp/const_correctness/cmake-build-debug/CMakeFiles/const_correctness.dir
+I:/_studia/Semestr_2/Informatyka/C_Lion/repo_Cpp/const_correctness/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/_studia/Semestr_2/Informatyka/C_Lion/repo_Cpp/const_correctness/cmake-build-debug/CMakeFiles/rebuild_cache.dir

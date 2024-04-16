@@ -1,0 +1,3 @@
+"D:\Programy\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\matlab_1__test.dir/objects.a
+"D:\Programy\CLion 2022.3.2\bin\mingw\bin\ar.exe" qc CMakeFiles\matlab_1__test.dir/objects.a @CMakeFiles\matlab_1__test.dir\objects1.rsp
+"D:\Programy\CLion 2022.3.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\matlab_1__test.dir/objects.a -Wl,--no-whole-archive -o matlab_1__test.exe -Wl,--out-implib,libmatlab_1__test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matlab_1__test.dir\linklibs.rsp

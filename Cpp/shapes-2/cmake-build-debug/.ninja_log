@@ -1,0 +1,19 @@
+# ninja log v5
+4	118	7041522730391220	CMakeFiles/shapes_1__test.dir/src/shapes.cpp.obj	2828199c3b862253
+10	1266	7041522741860076	CMakeFiles/shapes_1__test.dir/test/test_shapes.cpp.obj	28c971f31d25c3d0
+16	1201	7041522741213811	CMakeFiles/shapes_1__test.dir/test/main_gtest.cpp.obj	bf58a8644c9b7ac1
+21	2501	7041522754158507	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	d05fcb70ccaed1c5
+7559	7870	7041522807801900	lib/libgmock.a	6a82d0fb964c9f5e
+27	5682	7041522785793190	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	b83c5c0fd2d5b76b
+5684	7559	7041522804448011	lib/libgtest.a	266a6627d32184f7
+7870	10150	7041522830623121	shapes_1__test.exe	c36aa1c24fdde662
+12	423	7043012927689776	CMakeFiles/shapes_1__test.dir/src/shapes.cpp.obj	bfaf09644a55e785
+17	1177	7043012935220614	CMakeFiles/shapes_1__test.dir/test/main_gtest.cpp.obj	7b83814d290f237c
+5	1434	7043012937778053	CMakeFiles/shapes_1__test.dir/test/test_shapes.cpp.obj	bdaa25c92c944f36
+22	2498	7043012948356459	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	e20ed5acd4df348f
+34	5712	7043012980322417	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	38f7cbdad794d1d7
+5713	7467	7043012997777361	lib/libgtest.a	266a6627d32184f7
+7467	7761	7043013000979821	lib/libgmock.a	6a82d0fb964c9f5e
+7761	10036	7043013023750926	shapes_1__test.exe	c36aa1c24fdde662
+4	1238	7043013893120355	CMakeFiles/shapes_1__test.dir/test/test_shapes.cpp.obj	bdaa25c92c944f36
+1238	3530	7043013915990474	shapes_1__test.exe	c36aa1c24fdde662

@@ -1,0 +1,13 @@
+# ninja log v5
+29	4358	7096769257953718	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	38fbec8b1e4ea8b2
+10623	10989	7096769324266157	lib/libgmock.a	6a82d0fb964c9f5e
+482	611	7034405120450695	matlab_2__debug.exe	f57258ffc4fad5ab
+62	8413	7096769298356778	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	fe64b80ce6861976
+8413	10623	7096769320368224	lib/libgtest.a	266a6627d32184f7
+1176	3487	7034405695764384	matlab_2__test.exe	e056a6b84638bee2
+1266	3501	7038011954124429	matlab_3__test.exe	e145992d8737cfb1
+985	1220	7040522975431817	matlab_4__debug.exe	b5d05cb9bc0a6ddf
+970	3916	7040551592812600	matlab_4__test.exe	ed6692953608d9b9
+6	1066	7096770026205989	CMakeFiles/matlab_5__test.dir/src/matlab.cpp.obj	14036fc560bc6ebe
+14	2299	7096769237400821	CMakeFiles/matlab_5__test.dir/test/main_gtest.cpp.obj	4aa4cddbe20d1b6a
+21	2916	7096769243549989	CMakeFiles/matlab_5__test.dir/test/test_vector.cpp.obj	91d48c8cb8c74046

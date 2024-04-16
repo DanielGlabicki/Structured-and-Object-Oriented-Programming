@@ -1,0 +1,30 @@
+"D:\Programy\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S I:\_studia\Semestr_2\Informatyka\C_Lion\repo\solutions\lab3\program_organization -B I:\_studia\Semestr_2\Informatyka\C_Lion\repo\solutions\lab3\program_organization\cmake-build-debug
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Trying to use AddressSanitizer (ASan)...
+CMake Warning at I:/_studia/Semestr_2/Informatyka/C_Lion/repo/solutions/lab3/SetCommonConfig.cmake:31 (message):
+  AddressSanitizer not supported on your platform!
+Call Stack (most recent call first):
+  CMakeLists.txt:42 (include)
+
+
+CMake Error at I:/_studia/Semestr_2/Informatyka/C_Lion/repo/solutions/lab3/SetCommonConfig.cmake:66 (add_subdirectory):
+  add_subdirectory given source "../../googletest-master" which is not an
+  existing directory.
+Call Stack (most recent call first):
+  CMakeLists.txt:42 (include)
+
+
+-- Configuring incomplete, errors occurred!
+See also "I:/_studia/Semestr_2/Informatyka/C_Lion/repo/solutions/lab3/program_organization/cmake-build-debug/CMakeFiles/CMakeOutput.log".

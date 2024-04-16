@@ -1,0 +1,4 @@
+Cannot generate into I:\_studia\Semestr_2\Informatyka\C_Lion\repo_Cpp\solutions\complex-1\cmake-build-debug
+It is already used for project H:\_studia\Semestr_2\Informatyka\C_Lion\repo_Cpp\solutions\complex-1
+
+Please either delete it manually or select another generation directory

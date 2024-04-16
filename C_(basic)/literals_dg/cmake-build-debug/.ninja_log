@@ -1,0 +1,9 @@
+# ninja log v5
+0	110	6995625837382393	CMakeFiles/literals__debug.dir/main.c.obj	fb78e9bdd0d218b2
+111	336	6995625839622865	literals__debug.exe	ba7a17bfd00a09f6
+2	106	6995626145438371	CMakeFiles/literals__debug.dir/main.c.obj	fb78e9bdd0d218b2
+107	263	6995626147024740	literals__debug.exe	ba7a17bfd00a09f6
+2	106	6995626852294096	CMakeFiles/literals__debug.dir/main.c.obj	fb78e9bdd0d218b2
+106	261	6995626853830507	literals__debug.exe	ba7a17bfd00a09f6
+2	108	6995630711509892	CMakeFiles/literals__debug.dir/main.c.obj	fb78e9bdd0d218b2
+109	286	6995630713279349	literals__debug.exe	ba7a17bfd00a09f6

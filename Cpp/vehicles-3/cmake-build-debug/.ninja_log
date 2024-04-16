@@ -1,0 +1,14 @@
+# ninja log v5
+3	351	7044790123559090	build.ninja	9a570daaa389924c
+25	1695	7043165217032640	CMakeFiles/vehicles_1__test.dir/test/main_gtest.cpp.obj	16672516c7152aab
+16	1082	7043165210892531	CMakeFiles/vehicles_1__test.dir/src/vehicles.cpp.obj	12f0ef6c6ea1f895
+8	2166	7043165221733350	CMakeFiles/vehicles_1__test.dir/test/test_vehicles.cpp.obj	4f8379e401ce6bfd
+8	460	7043165145145575	CMakeFiles/vehicles_1.dir/main.cpp.obj	eef3ebc74f8fd50f
+66	3423	7043165234231691	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	563a707186d7c75e
+9497	9856	7043165298576035	lib/libgmock.a	6a82d0fb964c9f5e
+86	7295	7043165272796953	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	292a469de6869139
+7296	9497	7043165294730963	lib/libgtest.a	266a6627d32184f7
+820	1013	7043165150669803	vehicles_1.exe	79d86954d26645e3
+1714	4194	7043825131006530	vehicles_1__test.exe	264e5eb3adb2877a
+1	819	7043165148729746	CMakeFiles/vehicles_1.dir/src/vehicles.cpp.obj	1598de5ec36a7ee3
+20	1714	7043825106262008	CMakeFiles/vehicles_1__test.dir/test/test_driver.cpp.obj	4be19f8ed9eedc99
